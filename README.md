@@ -1,6 +1,7 @@
 # AirBnB_SQL_Project
 ## The csv files used in this project can be found at the following link: https://drive.google.com/drive/folders/1NGDWNP8carmOqTSM0lED237JxcJUPNwi?usp=drive_link
-These files were downloaded from the following website: https://insideairbnb.com/get-the-data/### This project is focused on AirBnB listings in London,UK.
+These files were downloaded from the following website: https://insideairbnb.com/get-the-data/###
+This project is focused on AirBnB listings in London,UK.
 
 ## Guiding Questions
 ###- What are the 10 most reviewed listings?
