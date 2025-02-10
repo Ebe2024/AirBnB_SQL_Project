@@ -4,8 +4,8 @@ These files were downloaded from the following website: https://insideairbnb.com
 This project is focused on AirBnB listings in London,UK.
 
 ## Guiding Questions
-###- What are the 10 most reviewed listings?
-###- What are the top 5 most expensive neighbourhoods?
-###- Are any hosts fully booked for March 2025 and which hosts have the least number of available dates in March 2025?
-###- Who are the hosts with the most listings?
-###- Which hosts have the most reviews which say their listing is dirty?
+- What are the 10 most reviewed listings?
+- What are the top 5 most expensive neighbourhoods?
+- Are any hosts fully booked for March 2025 and which hosts have the least number of available dates in March 2025?
+- Who are the hosts with the most listings?
+- Which hosts have the most reviews which say their listing is dirty?
