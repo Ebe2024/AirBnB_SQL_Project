@@ -9,5 +9,5 @@ This project is focused on AirBnB listings in London,UK.
 - What are the 10 most reviewed listings?
 - What are the top 5 most expensive neighbourhoods?
 - Are any hosts fully booked for March 2025 and which hosts have the least number of available dates in March 2025?
-- Who are the hosts with the most listings?
-- Which hosts have the most reviews which say their listing is dirty?
+- Who are the hosts with the least listings?
+- Identify some hosts which may benefit from a new cleaning service provider
