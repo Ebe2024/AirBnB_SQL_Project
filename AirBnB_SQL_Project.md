@@ -1,11 +1,7 @@
----
-title: "AirBnB SQL Project"
-output: github_document
----
+# **AirBnB SQL Project**  
 
 The CSV files used in this project can be found at the following link: [Google Drive](https://drive.google.com/drive/folders/1NGDWNP8carmOqTSM0lED237JxcJUPNwi?usp=drive_link).
 
-# **AirBnB SQL Project**  
 
 ## **📌 Project Description**  
 This project focuses on analyzing **AirBnB listings in London, UK**. After performing exploratory data analysis on the listings, the goal was to identify **potential leads** for a hypothetical new **cleaning and maintenance service**.  
