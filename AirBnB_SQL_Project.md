@@ -42,10 +42,20 @@ This project focuses on analyzing **AirBnB listings in London, UK**. After perfo
    - Open SQLite shell and run:  
      ```sql
      .mode csv
+     .import 'calendar.csv' calendar
      .import 'listings.csv' listings
+     .import 'listings-2.csv' listings_2
+     .import 'neighbourhoods.csv' neighbourhoods
+     .import 'reviews.csv' reviews
+     .import 'reviews-2.csv' reviews_2
      ```
 
-5. **Run SQL Queries**  
+5. **Verify Data**  
+   - Open SQLite and explore the data:  
+     ```sql
+     SELECT * FROM listings LIMIT 5;
+
+6. **Run SQL Queries**  
    - Open SQLite and explore the data:  
      ```sh
      sqlite3 airbnb_london.db
