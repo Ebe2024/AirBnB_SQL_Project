@@ -1,5 +1,10 @@
 # **AirBnB SQL Project**  
 
+## **💡 Inspiration**  
+The inspiration for this project was a **curiosity-driven deep dive** into AirBnB listing data. The goal was to **identify market opportunities** by finding hosts who might benefit from a **cleaning and maintenance service**.  
+
+---
+
 The CSV files used in this project can be found at the following link: [Google Drive](https://drive.google.com/drive/folders/1NGDWNP8carmOqTSM0lED237JxcJUPNwi?usp=drive_link).
 
 
@@ -86,11 +91,6 @@ This project serves as a **template** for:
 - Importing web-scraped data into a **relational database**  
 - Performing **exploratory analysis** on structured data  
 - Extracting **actionable insights** from raw datasets  
-
----
-
-## **💡 Inspiration**  
-The inspiration for this project was a **curiosity-driven deep dive** into AirBnB listing data. The goal was to **identify market opportunities** by finding hosts who might benefit from a **cleaning and maintenance service**.  
 
 ---
 
