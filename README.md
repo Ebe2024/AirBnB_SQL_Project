@@ -11,6 +11,19 @@ The CSV files used in this project can be found at the following link: [Google D
 ## **📌 Project Description**  
 This project focuses on analyzing **AirBnB listings in London, UK**. After performing exploratory data analysis on the listings, the goal was to identify **potential leads** for a hypothetical new **cleaning and maintenance service**.  
 
+
+## **🔎 Guiding Questions**  
+This project explores **key questions** to extract meaningful insights from the dataset:  
+
+1️⃣ **What are the 10 most reviewed listings?**  
+2️⃣ **What are the top 5 most expensive neighbourhoods?**  
+3️⃣ **Are any hosts fully booked for March 2025, and which hosts have the least number of available dates in March 2025?**  
+4️⃣ **Who are the hosts with the least listings?**  
+5️⃣ **Identify some hosts which may benefit from a new cleaning service provider.**  
+
+---
+
+
 ## **🛠️ Tech Stack**  
 - **Database**: SQLite3  
 - **Language**: SQL  
@@ -72,17 +85,6 @@ This project focuses on analyzing **AirBnB listings in London, UK**. After perfo
      GROUP BY host_id 
      ORDER BY avg_cleanliness DESC;
      ```
-
----
-
-## **🔎 Guiding Questions**  
-This project explores **key questions** to extract meaningful insights from the dataset:  
-
-1️⃣ **What are the 10 most reviewed listings?**  
-2️⃣ **What are the top 5 most expensive neighbourhoods?**  
-3️⃣ **Are any hosts fully booked for March 2025, and which hosts have the least number of available dates in March 2025?**  
-4️⃣ **Who are the hosts with the least listings?**  
-5️⃣ **Identify some hosts which may benefit from a new cleaning service provider.**  
 
 ---
 
